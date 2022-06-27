@@ -1,0 +1,58 @@
+.chess-timer {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    background: #174879;
+    padding: 29px;
+}
+.chess-timer h2 {
+    color: white;
+    font-size: 38px;
+}
+span.left, span.right {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+span.Atimer{
+    float: left;
+    width: 15%;
+    margin: 0 auto;
+    border-right: 3px solid white;
+}
+
+.swapbutton button#swapbtn {
+    margin-left: 190px;
+    width: 120px;
+}
+span.Btimer {
+    float: left;
+    width: 15%;
+    margin-left: 30px;
+    text-align: center;
+}
+.bottom {
+    float: left;
+    width: 100%;
+    margin-left: 80px;
+    margin-top: 11px;
+}
+
+.swapbutton {
+    float: left;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.bottom button {
+    width: 100px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+select#timer {
+    width: 100px;
+    font-size: 18px;
+    border-radius: 4px;
+}
